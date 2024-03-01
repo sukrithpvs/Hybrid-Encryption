@@ -9,7 +9,7 @@ This project implements a hybrid authentication system in Python, combining symm
 
 ## Prerequisites
 Ensure the following dependencies are installed:
-- Python (version 3.6 or higher)
+- Python (version 3.7 or higher)
 - cryptography library
 
 Install the required library using pip:
